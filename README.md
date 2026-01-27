@@ -1,4 +1,4 @@
-### Hi there 👋 I'm SeraphinaGlacia
+## Hi there 👋 I'm SeraphinaGlacia
 
 > "Imagination is the Discovering Faculty, pre-eminently. It is that which penetrates into the unseen worlds around us, the worlds of Science."
 >
@@ -6,11 +6,11 @@
 
 ---
 
-### 🎯 My Vision
+## 🎯 My Vision
 
 I am exploring the intersection of disciplines, dedicated to using **Computational Methods** to interpret and solve problems in **Social Sciences**.
 
-### 🚀 About Me
+## 🚀 About Me
 
 - 🎓 **Background**: B.Mgt. Candidate in Accounting (ACCA).
 - 🔭 **Focus**: Passionate about **Python** development in order to solve **Social Sciences** problems.
@@ -18,7 +18,7 @@ I am exploring the intersection of disciplines, dedicated to using **Computation
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
