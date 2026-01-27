@@ -27,6 +27,6 @@ I am exploring the intersection of disciplines, dedicated to using **Computation
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![JASP](https://img.shields.io/badge/JASP-Statistics-16a085?style=flat-square)
+![JASP](https://img.shields.io/badge/JASP-Stats-16a085?style=flat-square&logo=google-analytics&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
