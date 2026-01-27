@@ -8,7 +8,7 @@
 
 I am exploring the intersection of disciplines, dedicated to using **Computational Methods** to interpret and solve problems in **Social Sciences**.
 
-## 🚀 About Me
+## 🤔 About Me
 
 - 🎓 **Background**: B.Mgt. Candidate in Accounting (ACCA).
 - 🔭 **Focus**: Passionate about **Python** development in order to solve **Social Sciences** problems.
