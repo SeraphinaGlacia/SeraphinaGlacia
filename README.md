@@ -1,8 +1,6 @@
 ## Hi there, welcome 👋
 
 > "Imagination is the Discovering Faculty, pre-eminently. It is that which penetrates into the unseen worlds around us, the worlds of Science."
->
-> — **Ada Lovelace**
 
 ## 🎯 My Vision
 
