@@ -25,7 +25,7 @@ I am exploring the intersection of disciplines, dedicated to using **Computation
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![MLX-LM](https://img.shields.io/badge/mlx--lm-555555?style=flat-square&logo=apple&logoColor=white)
+![MLX-LM](https://img.shields.io/badge/MLX--LM-555555?style=flat-square&logo=apple&logoColor=white)
 
 <!--
 ![Gemini](https://img.shields.io/badge/Gemini-0082FC?style=flat-square&logo=googlegemini&logoColor=white)
