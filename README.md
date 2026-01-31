@@ -24,6 +24,7 @@ I am exploring the intersection of disciplines, dedicated to using **Computation
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 <!--
 ![Gemini](https://img.shields.io/badge/Gemini-0082FC?style=flat-square&logo=googlegemini&logoColor=white)
 ![Jules](https://img.shields.io/badge/Jules-715CD7?style=flat-square&logo=googlejules&logoColor=white)
