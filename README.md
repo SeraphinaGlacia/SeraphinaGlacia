@@ -16,6 +16,7 @@ I am exploring the intersection of disciplines, dedicated to using **Computation
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
@@ -34,4 +35,7 @@ I am exploring the intersection of disciplines, dedicated to using **Computation
 
 ## 📖 Learning
 
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SeraphinaGlacia&theme=dark&hide_border=true)](https://git.io/streak-stats)
