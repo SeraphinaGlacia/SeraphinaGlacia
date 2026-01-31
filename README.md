@@ -13,7 +13,7 @@ I am exploring the intersection of disciplines, dedicated to using **Computation
 - 🔭 **Focus**: Passionate about **Python** development in order to solve **Social Sciences** problems.
 - ❤️ **Fun Fact**: I use **Mac** for development, manage myself with **Obsidian**, and have some research and insights into **PKM**.
 
-## 🛠 Tech Stack
+## 🛠 Toolkit
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
