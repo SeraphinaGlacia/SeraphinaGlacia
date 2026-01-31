@@ -5,7 +5,7 @@
 
 ## 🎯 My Vision
 
-I am exploring the intersection of disciplines, dedicated to using **Computational Methods** to interpret and solve problems in **Social Sciences**.
+I am exploring the intersection of disciplines, dedicated to using **Computational Methods** to interpret and solve problems in **Social Sciences**, simply to fulfill a wish of my own.
 
 ## 🤔 About Me
 
