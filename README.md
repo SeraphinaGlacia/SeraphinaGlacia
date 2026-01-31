@@ -3,14 +3,14 @@
 > "Imagination is the Discovering Faculty, pre-eminently. It is that which penetrates into the unseen worlds around us, the worlds of Science."
 > **— Ada Lovelace**
 
-## 🎯 My Vision
+## 🔭 My Vision
 
 I am exploring the intersection of disciplines, dedicated to using **Computational Methods** to interpret and solve problems in **Social Sciences**, simply to fulfill a wish of my own.
 
-## 🤔 About Me
+## 💬 About Me
 
 - 🎓 **Background**: B.Mgt. Candidate in Accounting.
-- 🔭 **Focus**: Passionate about **Python** development in order to solve **Social Sciences** problems.
+- 🎯 **Focus**: Passionate about **Python** development in order to solve **Social Sciences** problems.
 - ❤️ **Fun Fact**: I use **Mac** for development, manage myself with **Obsidian**, and have some research and insights into **PKM**.
 
 ## 🛠 Toolkit
