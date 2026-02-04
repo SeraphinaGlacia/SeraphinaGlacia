@@ -9,9 +9,9 @@ I am exploring the intersection of disciplines, dedicated to using **Computation
 
 ## 💬 About Me
 
-- 🎓 **Background**: B.Mgt. Candidate in Accounting.
-- 🎯 **Focus**: Passionate about **Python** development in order to solve **Social Sciences** problems.
-- ❤️ **Fun Fact**: I use **Mac** for development, manage myself with **Obsidian**, and have some research and insights into **PKM**.
+- **Background**: B.Mgt. Candidate in Accounting.
+- **Focus**: Passionate about **Python** development in order to solve **Social Sciences** problems.
+- **Fun Fact**: I use **Mac** for development, manage myself with **Obsidian**, and have some research and insights into **PKM**.
 
 ## 🛠 Toolkit
 
