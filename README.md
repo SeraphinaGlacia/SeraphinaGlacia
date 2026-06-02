@@ -5,13 +5,13 @@
 
 ## 🔭 My Vision
 
-I am exploring the intersection of disciplines, dedicated to using **Computational Methods** to interpret and solve problems in **Social Sciences**, simply to fulfill a wish of my own.
+I explore the intersection of accounting, social science, and computation, using computational methods to better understand real-world problems.
 
 ## 💬 About Me
 
 - **Background**: B.Mgt. Candidate in Accounting.
-- **Focus**: Passionate about **Python** development in order to solve **Social Sciences** problems.
-- **Fun Fact**: I use **Mac** for development, manage myself with **Obsidian**, and have some research and insights into **PKM**.
+- **Focus**: Using Python and computational methods to analyze **social science** and **business** problems.
+- **Workflow**: I develop on macOS, organize my knowledge with Obsidian, and explore PKM and AI-assisted workflows.
 
 ## 🛠 Toolkit
 
