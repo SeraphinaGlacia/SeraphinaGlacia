@@ -10,10 +10,10 @@ I explore the intersection of accounting, social science, and computation, using
 ## 💬 About Me
 
 - **Background**: B.Mgt. Candidate in Accounting.
-- **Focus**: Using Python and computational methods to analyze **social science** and **business** problems.
-- **Workflow**: I develop on macOS, organize my knowledge with Obsidian, and explore PKM and AI-assisted workflows.
+- **Focus**: Using **Python** and computational methods to analyze **social science** and **business** problems.
+- **Workflow**: I develop on **macOS**, organize my knowledge with **Obsidian**, and explore **PKM** and **AI-assisted workflows**.
 
-## 🛠 Toolkit
+## 🛠 Tools I Work With
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
