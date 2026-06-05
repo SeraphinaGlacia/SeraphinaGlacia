@@ -10,7 +10,7 @@ I use computational methods to better understand human society, social science, 
 ## 💬 About Me
 
 - **Background**: B.Mgt. Candidate in Accounting.
-- **Focus**: Using **Python** and computational methods to analyze **social science** and **business** problems.
+- **Focus**: Using **Python** and other computational methods to analyze **social science** and **business** problems.
 - **Workflow**: I develop on **macOS**, organize my knowledge with **Obsidian**, and explore **PKM** and **AI-assisted workflows**.
 
 ## 🛠 Tools I Work With
