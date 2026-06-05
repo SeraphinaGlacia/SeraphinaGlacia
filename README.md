@@ -5,7 +5,7 @@
 
 ## 🔭 My Vision
 
-I explore the intersection of accounting, social science, and computation, using computational methods to better understand real-world problems.
+I use computational methods to better understand human society, social science, and real-world problems.
 
 ## 💬 About Me
 
