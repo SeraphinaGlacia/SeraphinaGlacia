@@ -3,14 +3,14 @@
 > "Imagination is the Discovering Faculty, pre-eminently. It is that which penetrates into the unseen worlds around us, the worlds of Science."
 > **— Ada Lovelace**
 
-## 🔭 My Vision
+## 🔭 My Focus
 
 Social Science × Data Science × Software Engineering
 
 ## 💬 About Me
 
-- **Background**: B.Mgt. Candidate in Accounting.
-- **Focus**: Using Python and other computational methods to analyze real-world problems.
+- **Background**: B.Mgt. candidate in Accounting.
+- **Approach**: Using Python, data science, and quantitative methods to analyze real-world problems.
 - **Workflow**: I develop on macOS, organize my knowledge with Obsidian, and explore PKM and AI-assisted workflows.
 
 ## 🛠 Tools I Work With
